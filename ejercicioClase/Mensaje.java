@@ -1,3 +1,5 @@
+package ejercicioClase;
+
 
 import javax.swing.JOptionPane;
 

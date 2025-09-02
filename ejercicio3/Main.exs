@@ -4,7 +4,7 @@ defmodule Main do
     horas_str = Util.input_data("Ingrese las horas trabajadas:")
     valor_hora_str = Util.input_data("Ingrese el valor por hora:")
 
-    # Validar y convertir strings a números
+    Validar y convertir strings a números
     horas = parse_float(horas_str)
     valor_hora = parse_float(valor_hora_str)
 
